@@ -1,3 +1,2 @@
 # calc.js
-# Calculator
-# Calculator
+
